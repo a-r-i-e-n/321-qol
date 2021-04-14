@@ -4,6 +4,9 @@ Adds various QoL to 321, such as larger inputs for PM windows and the ability to
 * Replaces the text input in PMs with a textarea, which functions like a text input
 * Allows PM windows to be resized, by dragging the top left corner
 
+## Questions and such
+Any questions or suggestions? Simply poke Arien on 321.
+
 # Installation
 ##  1. Tampermonkey
 In order to run userscripts in the first place, a browser extension will be required, such as Tampermonkey. Available for [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/).
