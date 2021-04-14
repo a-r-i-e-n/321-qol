@@ -9,7 +9,7 @@ Any questions or suggestions? Simply poke Arien on 321.
 
 # Installation
 ##  1. Tampermonkey
-In order to run userscripts in the first place, a browser extension will be required, such as Tampermonkey. Available for [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/).
+In order to run userscripts in the first place, a browser extension will be required, such as Tampermonkey. Available for [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) or [Opera](https://addons.opera.com/en/extensions/details/tampermonkey-beta/).
 
 ## 2. Install userscript
 Next step is to install the userscript. Simply open up [321-qol.user.js](https://github.com/a-r-i-e-n/321-qol/blob/master/321-qol.user.js) and click on "Raw". Tampermonkey should open up and request to install the script.
