@@ -1,5 +1,5 @@
 # 321 QoL
-Adds various QoL to 321, such as larger inputs for PM windows and the ability to resize them.
+Userscript which adds various QoL to 321, such as larger inputs for PM windows and the ability to resize them.
 
 * Replaces the text input in PMs with a textarea, which functions like a text input
 * Allows PM windows to be resized, by dragging the top left corner
